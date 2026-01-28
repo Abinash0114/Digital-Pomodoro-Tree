@@ -1,0 +1,8 @@
+# Binary Tree Pomodoro Widget Dependencies
+# Core GUI uses Tkinter (built-in with Python)
+
+# For creating Windows executable
+pyinstaller>=6.0.0
+
+# For Windows startup shortcut creation
+pywin32>=306
