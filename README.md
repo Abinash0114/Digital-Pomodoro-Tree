@@ -2,7 +2,7 @@
 
 A custom visual Pomodoro timer for Windows featuring a growing Christmas tree where leaves display the timer value in binary format.
 
-![Widget Preview](widget_preview.png)
+
 
 ---
 
